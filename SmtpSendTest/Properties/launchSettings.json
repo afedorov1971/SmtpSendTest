@@ -2,7 +2,7 @@
   "profiles": {
     "SmtpSendTest": {
       "commandName": "Project",
-      "commandLineArgs": "Alexander_Fedorov@rntgroup.com"
+      "commandLineArgs": "Receiver e-mail"
     }
   }
 }
