@@ -1,0 +1,11 @@
+{
+  "Notifications": {
+    "DefaultSender": "Your default sender e-mail",
+    "Smtp": {
+      "SmtpServer": "Your smtp server",
+      "Port": 25,
+      "Login": "Your login",
+      "Password": "Your password"
+    }
+  }
+}
